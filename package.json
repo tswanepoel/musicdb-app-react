@@ -9,6 +9,7 @@
     "react-scripts": "2.1.5"
   },
   "scripts": {
+    "prestart": "npm install",
     "start": "HOST=0.0.0.0 && PORT=8000 && ./node_modules/.bin/react-scripts start",
     "build": "./node_modules/.bin/react-scripts build",
     "pretest": "npm install",
