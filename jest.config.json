@@ -1,0 +1,6 @@
+{
+  "name": "musicdb-app",
+  "jest": {
+    "verbose": true
+  }
+}
