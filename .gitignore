@@ -24,3 +24,6 @@ yarn-error.log*
 
 # junit
 junit.xml
+
+# env
+.env
